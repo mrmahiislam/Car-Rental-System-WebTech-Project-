@@ -16,7 +16,9 @@ The system ensures that:
 
 ✅ Users can explore, book, and pay for cars without hassle.
 
+
 🔥 Core Features
+
 👑 Admin Panel (Full Control)
 
 📋 Manage Users & Employees (view, approve, block, or remove accounts).
@@ -29,6 +31,7 @@ The system ensures that:
 
 🔐 Secure login with unique admin credentials for privacy.
 
+
 👨‍💼 Employee Dashboard
 
 🚗 Add and manage cars available for rent (with images, models, price/hour).
@@ -40,6 +43,7 @@ The system ensures that:
 🧾 Get insights on which cars are performing best in rentals.
 
 🔄 Update availability and rental costs anytime.
+
 
 🙋‍♂️ User Experience (Seamless Renting)
 
@@ -55,6 +59,8 @@ The system ensures that:
 
 🔐 Create account, login, and manage bookings with ease.
 
+
+
 💡 Extra Functionalities
 
 🔄 Dynamic Pricing System – automatic cost calculation based on hours booked.
@@ -68,6 +74,8 @@ The system ensures that:
 📈 Analytics Dashboard – insights into cars, revenue, and booking trends.
 
 🎨 Clean UI/UX – built with CSS for a professional and user-friendly design.
+
+
 
 ⚙️ Installation & Setup Guide
 
